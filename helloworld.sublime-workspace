@@ -1,0 +1,966 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"controls",
+				"controlsGarden"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"sto",
+				"Storage"
+			],
+			[
+				"garden",
+				"gardenObjects"
+			],
+			[
+				"gar",
+				"gardenObject"
+			],
+			[
+				"garde",
+				"gardenObjects"
+			],
+			[
+				"contro",
+				"controlsGarden"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"c",
+				"clientHeight"
+			],
+			[
+				"gaer",
+				"gardenCreated"
+			],
+			[
+				"objec",
+				"objects"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"obje",
+				"object"
+			],
+			[
+				"A",
+				"AnonymousUser"
+			],
+			[
+				"gard",
+				"gardenId"
+			],
+			[
+				"firs",
+				"firsttimefalsefalue"
+			],
+			[
+				"functio",
+				"function"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"info",
+				"infobase"
+			],
+			[
+				"inf",
+				"infobase"
+			],
+			[
+				"av",
+				"availableHeight"
+			],
+			[
+				"data",
+				"data_loaded"
+			],
+			[
+				"gr",
+				"gardenSize"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"La",
+				"layerY"
+			],
+			[
+				"Con",
+				"console"
+			],
+			[
+				"pag",
+				"pageX"
+			],
+			[
+				"cn",
+				"center"
+			],
+			[
+				"off",
+				"offsetLeft"
+			],
+			[
+				"pos",
+				"positon"
+			],
+			[
+				"dragen",
+				"dragelement"
+			],
+			[
+				"Drag",
+				"dragelement"
+			],
+			[
+				"drag",
+				"dragelement"
+			],
+			[
+				"dra",
+				"dragelement"
+			],
+			[
+				"sear",
+				"searchElement"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"gem",
+				"Geometry"
+			],
+			[
+				"scal",
+				"scaleObject"
+			],
+			[
+				"cono",
+				"console"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"sa",
+				"File: Save All"
+			],
+			[
+				"sav",
+				"File: Save All"
+			],
+			[
+				"save a",
+				"File: Save All"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/client.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/store.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/controls.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/object.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.html",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/search/search.html",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/search/search.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlhelper/helper.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/garden/garden.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/config/collections.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/index.html",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/config/routes.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.less",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/setup.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/css/main.less",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.html",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.less",
+		"/etc/X11/xorg.conf",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/css/modal.less",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/css/normalize.css",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/config/appcache.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/package.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/tools/mysqltomongo/database.config",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/tools/mysqltomongo/translation.rb",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/testing.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/server/server.js",
+		"/home/michael/dev/pflanzmich/pmverwaltung/client/index.html",
+		"/home/michael/dev/pflanzmich/pmverwaltung/client/client.js",
+		"/home/michael/dev/pflanzmich/pmverwaltung/server/server.js",
+		"/home/michael/dev/pflanzmich/pmverwaltung/lib/collections.js",
+		"/etc/udev/rules.d/51-android.rules",
+		"/etc/rc.local",
+		"/etc/fstab",
+		"/etc/default/grub",
+		"/home/michael/dev/pflanzmich/pmverwaltung/client/libs/jquery.handsontable.full.js",
+		"/home/michael/dev/pflanzmich/pmverwaltung/bin/deploy.sh",
+		"/home/michael/dev/pflanzmich/pmverwaltung/client/css/style.css",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/garden/garden.html",
+		"/home/michael/dev/pflanzmich/pmverwaltung/libs/collections.js",
+		"/home/michael/dev/pflanzmich/pmverwaltung/client/libs/collections.js",
+		"/home/michael/dev/pflanzmich/pmverwaltung/config/collections.js",
+		"/home/michael/dev/pflanzmich/pmverwaltung/client/jquery.handsontable.full.css",
+		"/home/michael/dev/pflanzmich/pmverwaltung/README",
+		"/home/michael/dev/pflanzmich/pmverwaltung/client/jquery.handsontable.full.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/server/accounts.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/search/search.less",
+		"/home/michael/dev/testing/testing.js",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/konfidrei/index.html",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/konfidrei/js/jquery.pmkonfigurator.js",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/hecken/index.html",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/bodendecker/js/jquery.pm.konfigurator.js",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/bodendecker/index.html",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlhelper/orderedmap.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlhelper/package.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/materials.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/update.sh",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/material.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/variables.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/three.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/.meteor/packages",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/engine/package.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/libs/helper/helper.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/engine/dependencys/three.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/libs/engine.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/engine/depends/three.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/libs/01thirdpartylibs/three.js",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/konfidrei/css/style.css",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/bodendecker/css/style.css",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/hecken/css/style.css",
+		"/home/michael/dev/pflanzmich/pflanzmich/htdocs/konfiguratoren/konfidrei/css/MuseoSans_500.otf",
+		"/home/michael/restore/home/michael/.bash_history"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hold",
+			"gardenclick",
+			"garden",
+			"storage",
+			".update",
+			"release",
+			"gid",
+			"addObject",
+			"conso",
+			"store",
+			"engine.selectedob",
+			"drag",
+			"addObjectsFromLocalStore",
+			"meteor.user",
+			"gardencl",
+			"onObjectSelect",
+			"onobjectsel",
+			"scale",
+			"objects",
+			"modalfir",
+			"isan",
+			"gardenReady",
+			"modalfir",
+			"gardenready",
+			"resize",
+			"fir",
+			"home",
+			"firsttime",
+			"setupd",
+			"setupdone",
+			"addob",
+			".objects",
+			".object",
+			"addobj",
+			"addob",
+			"deps",
+			".push",
+			"engine.add",
+			"setup",
+			"mainread",
+			"console.l",
+			"load",
+			"geomet",
+			"objects.push",
+			"firsttime",
+			"gardenready",
+			"isready",
+			"isread",
+			"setup",
+			"plane",
+			"garden",
+			"objectsele",
+			"onobj",
+			"addob",
+			"objects",
+			"mbda",
+			"jack",
+			"calc",
+			"conso",
+			"hold",
+			".add",
+			"touch",
+			"scale",
+			"padding",
+			"engine.plan",
+			"rel",
+			"rele",
+			"plane",
+			".objects",
+			"rel",
+			"addo",
+			"project",
+			"inter",
+			"engine.objec",
+			"engine.pl",
+			"touch",
+			"pagex",
+			"event.gesture",
+			"Engine.controls",
+			"engine.controls",
+			"height",
+			"scene",
+			"gardensi",
+			".z",
+			"<dave_barbarian>     ",
+			"euro",
+			"euroa",
+			"euro",
+			"addob",
+			"onobje",
+			"selecte",
+			"extrac",
+			"VelocityForPinchOnMobile",
+			"controls",
+			"controlsVelocityForPinchOnMobile",
+			"where",
+			"onobj",
+			"fenceline",
+			"addob",
+			"material",
+			"interse",
+			"objects",
+			".obje",
+			"objects",
+			".push",
+			"objects",
+			".objects",
+			"objects",
+			"addob",
+			"console",
+			"scale",
+			".objects",
+			"scene.ad",
+			".objects",
+			"objects",
+			"addob",
+			"console",
+			"h1",
+			"script",
+			"jquery",
+			"ssh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"michael",
+			"Engine.controlsGarden",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"objec",
+				"packages/xxlengine/engine/object.js"
+			],
+			[
+				"control",
+				"packages/xxlengine/engine/controls.js"
+			],
+			[
+				"store",
+				"packages/xxlengine/engine/store.js"
+			],
+			[
+				"clien",
+				"client/client.js"
+			],
+			[
+				"engine",
+				"packages/xxlengine/engine.js"
+			],
+			[
+				"topbar",
+				"client/modules/topbar/topbar.html"
+			],
+			[
+				"search",
+				"client/modules/search/search.html"
+			],
+			[
+				"obj",
+				"packages/xxlengine/engine/object.js"
+			],
+			[
+				"con",
+				"packages/xxlengine/engine/controls.js"
+			],
+			[
+				"client",
+				"client/client.js"
+			],
+			[
+				"he",
+				"packages/xxlhelper/helper.js"
+			],
+			[
+				"controls",
+				"packages/xxlengine/engine/controls.js"
+			],
+			[
+				"coll",
+				"config/collections.js"
+			],
+			[
+				"contr",
+				"packages/xxlengine/engine/controls.js"
+			],
+			[
+				"inde",
+				"client/index.html"
+			],
+			[
+				"rou",
+				"config/routes.js"
+			],
+			[
+				"object",
+				"packages/xxlengine/engine/object.js"
+			],
+			[
+				"top",
+				"client/modules/topbar/topbar.html"
+			],
+			[
+				"garden",
+				"client/modules/garden/garden.js"
+			],
+			[
+				"helper",
+				"packages/xxlhelper/helper.js"
+			],
+			[
+				"main.",
+				"client/css/main.less"
+			],
+			[
+				"set",
+				"packages/xxlengine/engine/setup.js"
+			],
+			[
+				"side",
+				"client/modules/sidemenu/sidemenu.html"
+			],
+			[
+				"sidemen",
+				"client/modules/sidemenu/sidemenu.js"
+			],
+			[
+				"hel",
+				"packages/xxlhelper/helper.js"
+			],
+			[
+				"en",
+				"packages/xxlengine/engine.js"
+			],
+			[
+				"ob",
+				"packages/xxlengine/engine/object.js"
+			],
+			[
+				"setup",
+				"packages/xxlengine/engine/setup.js"
+			],
+			[
+				"stor",
+				"packages/xxlengine/engine/store.js"
+			],
+			[
+				"gard",
+				"client/modules/garden/garden.js"
+			],
+			[
+				"cont",
+				"packages/xxlengine/engine/controls.js"
+			],
+			[
+				"obje",
+				"packages/xxlengine/engine/object.js"
+			],
+			[
+				"gar",
+				"client/modules/garden/garden.js"
+			],
+			[
+				"garde",
+				"client/modules/garden/garden.js"
+			],
+			[
+				"topb",
+				"client/modules/topbar/topbar.js"
+			],
+			[
+				"main",
+				"client/css/main.less"
+			],
+			[
+				"rout",
+				"config/routes.js"
+			],
+			[
+				"sear",
+				"client/modules/search/search.html"
+			],
+			[
+				"trans",
+				"tools/mysqltomongo/translation.rb"
+			],
+			[
+				"datab",
+				"tools/mysqltomongo/database.config"
+			],
+			[
+				"colle",
+				"config/collections.js"
+			],
+			[
+				"testin",
+				"packages/xxlengine/engine/testing.js"
+			],
+			[
+				"test",
+				"packages/xxlengine/engine/testing.js"
+			],
+			[
+				"cl",
+				"client/client.js"
+			],
+			[
+				"server",
+				"server/server.js"
+			],
+			[
+				"clie",
+				"client/client.js"
+			],
+			[
+				"collec",
+				"config/collections.js"
+			],
+			[
+				"sidem",
+				"client/modules/sidemenu/sidemenu.less"
+			],
+			[
+				"index",
+				"client/index.html"
+			],
+			[
+				"ser",
+				"server/server.js"
+			],
+			[
+				"in",
+				"client/index.html"
+			],
+			[
+				"topba",
+				"client/modules/topbar/topbar.html"
+			],
+			[
+				"enginecon",
+				"packages/xxlengine/engine/controls.js"
+			],
+			[
+				"setu",
+				"packages/xxlengine/engine/setup.js"
+			],
+			[
+				"engine.js",
+				"packages/xxlengine/engine.js"
+			],
+			[
+				"searchle",
+				"client/modules/search/search.less"
+			],
+			[
+				"setup.js",
+				"packages/xxlengine/engine/setup.js"
+			],
+			[
+				"e",
+				"packages/xxlengine/engine.js"
+			],
+			[
+				"contro",
+				"packages/xxlengine/engine/controls.js"
+			],
+			[
+				"mater",
+				"packages/xxlengine/engine/materials.js"
+			],
+			[
+				"engiobj",
+				"packages/xxlengine/engine/object.js"
+			],
+			[
+				"package",
+				"packages/xxlengine/package.js"
+			],
+			[
+				"packjs",
+				"packages/xxlengine/package.js"
+			],
+			[
+				"pack",
+				".meteor/packages"
+			],
+			[
+				"eng",
+				"client/libs/engine.js"
+			],
+			[
+				"help",
+				"client/libs/helper/helper.js"
+			],
+			[
+				"three",
+				"client/libs/01thirdpartylibs/three.js"
+			],
+			[
+				"konstyl",
+				"konfidrei/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
