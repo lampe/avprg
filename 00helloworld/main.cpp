@@ -4,5 +4,8 @@ main()
 {
  cout << "Hello World" << endl;
 
+ //fuer windows only
+ //int dummy;
+ //cin >> dummy;
  return 0;
 }
