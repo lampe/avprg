@@ -3,6 +3,12 @@
 	[
 		{
 			"path": "/home/michael/dev/avprg"
+		},
+		{
+			"path": "00helloworld"
+		},
+		{
+			"path": "01uebung01"
 		}
 	]
 }
