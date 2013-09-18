@@ -3,7 +3,7 @@ avprg
 
 ##OpenCV unter Ubuntu Installieren:
 <pre><code>
-$ sudo apt-add-repository ppa:gijzelaar/opencv2.4
+$ sudo apt-add-repository ppa:alexei.colin/opencv
 
 $ sudo apt-get update
 
