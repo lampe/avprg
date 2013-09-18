@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"registerhidden"
+			],
+			[
+				"log",
+				"loginhidden"
+			],
+			[
+				"l",
+				"logindropdown"
+			],
+			[
 				"controls",
 				"controlsGarden"
 			],
@@ -211,23 +223,23 @@
 	"build_system": "Packages/C++/C++.sublime-build",
 	"command_palette":
 	{
-		"height": 75.0,
+		"height": 201.0,
 		"selected_items":
 		[
-			[
-				"inst",
-				"Package Control: Install Package"
-			],
 			[
 				"save",
 				"File: Save All"
 			],
 			[
-				"sa",
+				"sav",
 				"File: Save All"
 			],
 			[
-				"sav",
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sa",
 				"File: Save All"
 			],
 			[
@@ -251,7 +263,7 @@
 				"View: Toggle Open Files in Side Bar"
 			]
 		],
-		"width": 449.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -268,9 +280,19 @@
 	},
 	"file_history":
 	[
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.less",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.html",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.html",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.js",
+		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.less",
+		"/home/michael/dev/epizoid/epizoid.html",
+		"/home/michael/dev/epizoid/epizoid.css",
+		"/home/michael/dev/avprg/04hausaufgabe01/mainzwei.cpp",
+		"/home/michael/dev/avprg/04hausaufgabe01/maindrei.cpp",
+		"/home/michael/dev/avprg/04hausaufgabe01/mainb.cpp",
 		"/home/michael/dev/avprg/04hausaufgabe01/Makefile",
 		"/home/michael/dev/avprg/04hausaufgabe01/maind.cpp",
-		"/home/michael/dev/avprg/04hausaufgabe01/mainb.cpp",
 		"/home/michael/dev/avprg/04hausaufgabe01/maine.cpp",
 		"/home/michael/dev/avprg/04hausaufgabe01/maina.cpp",
 		"/home/michael/dev/avprg/03opencv01/main.cpp",
@@ -290,7 +312,6 @@
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/controls.js",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/object.js",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine.js",
-		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.html",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/search/search.html",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/search/search.js",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlhelper/helper.js",
@@ -298,13 +319,8 @@
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/config/collections.js",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/index.html",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/config/routes.js",
-		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.js",
-		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/topbar/topbar.less",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/packages/xxlengine/engine/setup.js",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/css/main.less",
-		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.js",
-		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.html",
-		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/modules/sidemenu/sidemenu.less",
 		"/etc/X11/xorg.conf",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/css/modal.less",
 		"/home/michael/dev/pflanzmich/xxlkonfigurator/client/css/normalize.css",
@@ -376,6 +392,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"border",
 			"hold",
 			"gardenclick",
 			"garden",
@@ -568,6 +585,18 @@
 		"selected_items":
 		[
 			[
+				"",
+				"client/modules/topbar/topbar.html"
+			],
+			[
+				"topbar",
+				"client/modules/topbar/topbar.js"
+			],
+			[
+				"side",
+				"client/modules/sidemenu/sidemenu.less"
+			],
+			[
 				"objec",
 				"packages/xxlengine/engine/object.js"
 			],
@@ -586,10 +615,6 @@
 			[
 				"engine",
 				"packages/xxlengine/engine.js"
-			],
-			[
-				"topbar",
-				"client/modules/topbar/topbar.html"
 			],
 			[
 				"search",
@@ -654,10 +679,6 @@
 			[
 				"set",
 				"packages/xxlengine/engine/setup.js"
-			],
-			[
-				"side",
-				"client/modules/sidemenu/sidemenu.html"
 			],
 			[
 				"sidemen",
