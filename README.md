@@ -7,13 +7,13 @@ $ sudo apt-add-repository ppa:alexei.colin/opencv
 
 $ sudo apt-get update
 
-$ sudo apt-get install opencv
+$ sudo apt-get install opencv oder <code> sudo apt-get install libopencv-* </code>
 
 $ sudo apt-get install libopencv-dev
 </code></pre>
 Der header fuer opencv liegt unter:
-<pre>
-<code> /usr/include/opencv2 </code>
+<pre> 
+<code> /usr/include/opencv2 </code> 
 </pre>
 Ein mit g++ compilieren:
 <pre>
